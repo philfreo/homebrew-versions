@@ -2,8 +2,8 @@ require 'formula'
 
 class Mongodb24 < Formula
   homepage 'http://www.mongodb.org/'
-  url 'http://downloads.mongodb.org/src/mongodb-src-r2.4.10.tar.gz'
-  sha1 'faf1f41d45934bcb30684cfed95f5d3c698663a0'
+  url 'http://downloads.mongodb.org/src/mongodb-src-r2.4.12.tar.gz'
+  sha1 '7b78d201fdc25c791c30fe7ec8cadecb405c7bb7'
   revision 1
 
   patch do
